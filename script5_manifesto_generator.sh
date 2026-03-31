@@ -71,7 +71,7 @@ OUTPUT="manifesto_${AUTHOR}.txt"   # Dynamic filename based on username
 cat > "$OUTPUT" << EOF
 ============================================================
         OPEN SOURCE MANIFESTO
-        by JALAJ SRIVASTAVA (${AUTHOR})
+        by NIKITA SHROTRIYA (${AUTHOR})
         Generated on: ${DATE} at ${TIME}
 ============================================================
 
@@ -104,7 +104,7 @@ Open source is not charity. It is the recognition that
 software, like knowledge itself, becomes more valuable when
 it is shared, not when it is hoarded.
 
-                                        — JALAJ SRIVASTAVA
+                                        — NIKITA SHROTRIYA
                                           ${DATE}
 
 ============================================================

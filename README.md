@@ -1,9 +1,9 @@
-# oss-audit-[rollnumber]
+# oss-audit-[24BCE10386]
 
 ## Open Source Software Audit — Capstone Project
 **Course:** Open Source Software (OSS NGMC)
-**Student:** JALAJ SRIVASTAVA
-**Registration Number:** 24BCE10130
+**Student:** NIKITA SHROTRIYA
+**Registration Number:** 24BCE10386
 **Chosen Software:** Python (PSF License)
 
 ---
@@ -17,7 +17,7 @@ This repository contains all shell scripts and supporting materials for the **Op
 ## Repository Structure
 
 ```
-oss-audit-[rollnumber]/
+oss-audit-[24BCE10386]/
 ├── script1_system_identity.sh          # System Identity Report
 ├── script2_package_inspector.sh        # FOSS Package Inspector
 ├── script3_disk_permission_auditor.sh  # Disk and Permission Auditor
@@ -84,8 +84,8 @@ Interactively asks the user three questions and composes a personalised open-sou
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/[yourusername]/oss-audit-[rollnumber].git
-cd oss-audit-[rollnumber]
+git clone 
+cd oss-audit-[24BCE10386]
 ```
 
 ### Step 2 — Make scripts executable
@@ -180,7 +180,6 @@ Python is a high-level, general-purpose programming language first released by G
 
 Key facts:
 - **License:** PSF License 2.0 (permissive, OSI-approved)
-- **Repository:** https://github.com/python/cpython
 - **Governance:** Python Software Foundation (PSF)
 - **Package Manager:** pip (Python Package Index — PyPI)
 - **Linux package name:** `python3` (most distros)
